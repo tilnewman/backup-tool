@@ -12,6 +12,6 @@ Backup-Tool is not intended for cloning operating system files or windows juncti
 ##
 Example Workflow:
 
-./backup.exe --compare C:/photos D:/photos
-./backup.exe --copy C:/photos D:/photos
-./backup.exe --cull C:/photos D:/photos
+* ./backup.exe --compare C:/photos D:/photos
+* ./backup.exe --copy C:/photos D:/photos
+* ./backup.exe --cull C:/photos D:/photos
